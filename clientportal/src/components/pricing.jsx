@@ -30,9 +30,6 @@ const Pricing = () => {
 
         <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
           <div className="bg-white rounded-2xl p-8">
-            <div className="absolute -top-3 left-8 bg-[#2D2F45] text-white text-sm px-4 py-1 rounded-full">
-              MOST POPULAR
-            </div>
             <h3 className="text-xl font-semibold mb-6">Single site license</h3>
             <div className="mb-6">
               <span className="text-3xl font-bold">$</span>
